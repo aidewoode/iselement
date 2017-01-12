@@ -19,7 +19,6 @@
   "homepage": "https://github.com/fczbkk/iselement#readme",
   "main": "lib/index.js",
   "module": "module/index.js",
-  "webpack": "module/index.js",
   "jsnext:main": "module/index.js",
   "scripts": {
     "dev": "npm run test:dev",
